@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ModelagemEstrelaDaMorte": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false,
+      "nativeDebugging": false
+    }
+  }
+}

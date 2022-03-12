@@ -1,0 +1,152 @@
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\ExemploCookies.dll.config
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\ExemploCookies.dll
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\ExemploCookies.pdb
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\roslyn\csc.exe
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\roslyn\csc.exe.config
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\roslyn\csc.rsp
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\roslyn\csi.exe
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\roslyn\csi.exe.config
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\roslyn\csi.rsp
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\roslyn\System.AppContext.dll
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\roslyn\System.Console.dll
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\roslyn\System.IO.Compression.dll
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\roslyn\System.Net.Http.dll
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\roslyn\System.ValueTuple.dll
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\roslyn\vbc.exe
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\roslyn\vbc.exe.config
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\roslyn\vbc.rsp
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\roslyn\VBCSCompiler.exe
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\Antlr3.Runtime.dll
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\Newtonsoft.Json.dll
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\System.Web.Optimization.dll
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\WebGrease.dll
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\System.Web.Optimization.xml
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\Newtonsoft.Json.xml
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\Antlr3.Runtime.pdb
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\obj\Debug\ExemploCookies.csprojAssemblyReference.cache
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\obj\Debug\ExemploCookies.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\obj\Debug\ExemploCookies.csproj.CopyComplete
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\obj\Debug\ExemploCookies.dll
+C:\Users\Carlos Araujo\source\repos\ExemploCookies\obj\Debug\ExemploCookies.pdb
+C:\Projetos\.NET\ExemploCookies\bin\ExemploCookies.dll.config
+C:\Projetos\.NET\ExemploCookies\bin\ExemploCookies.dll
+C:\Projetos\.NET\ExemploCookies\bin\ExemploCookies.pdb
+C:\Projetos\.NET\ExemploCookies\bin\roslyn\csc.exe
+C:\Projetos\.NET\ExemploCookies\bin\roslyn\csc.exe.config
+C:\Projetos\.NET\ExemploCookies\bin\roslyn\csc.rsp
+C:\Projetos\.NET\ExemploCookies\bin\roslyn\csi.exe
+C:\Projetos\.NET\ExemploCookies\bin\roslyn\csi.exe.config
+C:\Projetos\.NET\ExemploCookies\bin\roslyn\csi.rsp
+C:\Projetos\.NET\ExemploCookies\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projetos\.NET\ExemploCookies\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projetos\.NET\ExemploCookies\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Projetos\.NET\ExemploCookies\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projetos\.NET\ExemploCookies\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Projetos\.NET\ExemploCookies\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projetos\.NET\ExemploCookies\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projetos\.NET\ExemploCookies\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Projetos\.NET\ExemploCookies\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Projetos\.NET\ExemploCookies\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Projetos\.NET\ExemploCookies\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projetos\.NET\ExemploCookies\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Projetos\.NET\ExemploCookies\bin\roslyn\System.AppContext.dll
+C:\Projetos\.NET\ExemploCookies\bin\roslyn\System.Collections.Immutable.dll
+C:\Projetos\.NET\ExemploCookies\bin\roslyn\System.Console.dll
+C:\Projetos\.NET\ExemploCookies\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Projetos\.NET\ExemploCookies\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Projetos\.NET\ExemploCookies\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Projetos\.NET\ExemploCookies\bin\roslyn\System.Globalization.Calendars.dll
+C:\Projetos\.NET\ExemploCookies\bin\roslyn\System.IO.Compression.dll
+C:\Projetos\.NET\ExemploCookies\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Projetos\.NET\ExemploCookies\bin\roslyn\System.IO.FileSystem.dll
+C:\Projetos\.NET\ExemploCookies\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Projetos\.NET\ExemploCookies\bin\roslyn\System.Net.Http.dll
+C:\Projetos\.NET\ExemploCookies\bin\roslyn\System.Net.Sockets.dll
+C:\Projetos\.NET\ExemploCookies\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projetos\.NET\ExemploCookies\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Projetos\.NET\ExemploCookies\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Projetos\.NET\ExemploCookies\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Projetos\.NET\ExemploCookies\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Projetos\.NET\ExemploCookies\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Projetos\.NET\ExemploCookies\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Projetos\.NET\ExemploCookies\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Projetos\.NET\ExemploCookies\bin\roslyn\System.ValueTuple.dll
+C:\Projetos\.NET\ExemploCookies\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Projetos\.NET\ExemploCookies\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Projetos\.NET\ExemploCookies\bin\roslyn\System.Xml.XPath.dll
+C:\Projetos\.NET\ExemploCookies\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Projetos\.NET\ExemploCookies\bin\roslyn\vbc.exe
+C:\Projetos\.NET\ExemploCookies\bin\roslyn\vbc.exe.config
+C:\Projetos\.NET\ExemploCookies\bin\roslyn\vbc.rsp
+C:\Projetos\.NET\ExemploCookies\bin\roslyn\VBCSCompiler.exe
+C:\Projetos\.NET\ExemploCookies\bin\roslyn\VBCSCompiler.exe.config
+C:\Projetos\.NET\ExemploCookies\bin\Antlr3.Runtime.dll
+C:\Projetos\.NET\ExemploCookies\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Projetos\.NET\ExemploCookies\bin\AspNet.ScriptManager.jQuery.dll
+C:\Projetos\.NET\ExemploCookies\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Projetos\.NET\ExemploCookies\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Projetos\.NET\ExemploCookies\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projetos\.NET\ExemploCookies\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Projetos\.NET\ExemploCookies\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Projetos\.NET\ExemploCookies\bin\Microsoft.Web.Infrastructure.dll
+C:\Projetos\.NET\ExemploCookies\bin\Newtonsoft.Json.dll
+C:\Projetos\.NET\ExemploCookies\bin\System.Web.Optimization.dll
+C:\Projetos\.NET\ExemploCookies\bin\WebGrease.dll
+C:\Projetos\.NET\ExemploCookies\bin\System.Web.Optimization.xml
+C:\Projetos\.NET\ExemploCookies\bin\Newtonsoft.Json.xml
+C:\Projetos\.NET\ExemploCookies\bin\Antlr3.Runtime.pdb
+C:\Projetos\.NET\ExemploCookies\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Projetos\.NET\ExemploCookies\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projetos\.NET\ExemploCookies\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Projetos\.NET\ExemploCookies\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Projetos\.NET\ExemploCookies\obj\Debug\ExemploCookies.csprojAssemblyReference.cache
+C:\Projetos\.NET\ExemploCookies\obj\Debug\ExemploCookies.csproj.CoreCompileInputs.cache
+C:\Projetos\.NET\ExemploCookies\obj\Debug\ExemploCookies.csproj.CopyComplete
+C:\Projetos\.NET\ExemploCookies\obj\Debug\ExemploCookies.dll
+C:\Projetos\.NET\ExemploCookies\obj\Debug\ExemploCookies.pdb

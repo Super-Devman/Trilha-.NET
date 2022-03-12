@@ -1,0 +1,16 @@
+C:\Projetos\.NET\SplitAndIndexOfMethods\StringArrayDivision\bin\Debug\net5.0\StringArrayDivision.exe
+C:\Projetos\.NET\SplitAndIndexOfMethods\StringArrayDivision\bin\Debug\net5.0\StringArrayDivision.deps.json
+C:\Projetos\.NET\SplitAndIndexOfMethods\StringArrayDivision\bin\Debug\net5.0\StringArrayDivision.runtimeconfig.json
+C:\Projetos\.NET\SplitAndIndexOfMethods\StringArrayDivision\bin\Debug\net5.0\StringArrayDivision.runtimeconfig.dev.json
+C:\Projetos\.NET\SplitAndIndexOfMethods\StringArrayDivision\bin\Debug\net5.0\StringArrayDivision.dll
+C:\Projetos\.NET\SplitAndIndexOfMethods\StringArrayDivision\bin\Debug\net5.0\ref\StringArrayDivision.dll
+C:\Projetos\.NET\SplitAndIndexOfMethods\StringArrayDivision\bin\Debug\net5.0\StringArrayDivision.pdb
+C:\Projetos\.NET\SplitAndIndexOfMethods\StringArrayDivision\obj\Debug\net5.0\StringArrayDivision.csproj.AssemblyReference.cache
+C:\Projetos\.NET\SplitAndIndexOfMethods\StringArrayDivision\obj\Debug\net5.0\StringArrayDivision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\.NET\SplitAndIndexOfMethods\StringArrayDivision\obj\Debug\net5.0\StringArrayDivision.AssemblyInfoInputs.cache
+C:\Projetos\.NET\SplitAndIndexOfMethods\StringArrayDivision\obj\Debug\net5.0\StringArrayDivision.AssemblyInfo.cs
+C:\Projetos\.NET\SplitAndIndexOfMethods\StringArrayDivision\obj\Debug\net5.0\StringArrayDivision.csproj.CoreCompileInputs.cache
+C:\Projetos\.NET\SplitAndIndexOfMethods\StringArrayDivision\obj\Debug\net5.0\StringArrayDivision.dll
+C:\Projetos\.NET\SplitAndIndexOfMethods\StringArrayDivision\obj\Debug\net5.0\ref\StringArrayDivision.dll
+C:\Projetos\.NET\SplitAndIndexOfMethods\StringArrayDivision\obj\Debug\net5.0\StringArrayDivision.pdb
+C:\Projetos\.NET\SplitAndIndexOfMethods\StringArrayDivision\obj\Debug\net5.0\StringArrayDivision.genruntimeconfig.cache

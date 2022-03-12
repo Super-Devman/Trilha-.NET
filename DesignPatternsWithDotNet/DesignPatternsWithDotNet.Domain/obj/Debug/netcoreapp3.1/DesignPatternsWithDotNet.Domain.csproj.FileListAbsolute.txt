@@ -1,0 +1,10 @@
+C:\Projetos\.NET\DesignPatternsWithDotNet\DesignPatternsWithDotNet.Domain\bin\Debug\netcoreapp3.1\DesignPatternsWithDotNet.Domain.deps.json
+C:\Projetos\.NET\DesignPatternsWithDotNet\DesignPatternsWithDotNet.Domain\bin\Debug\netcoreapp3.1\DesignPatternsWithDotNet.Domain.dll
+C:\Projetos\.NET\DesignPatternsWithDotNet\DesignPatternsWithDotNet.Domain\bin\Debug\netcoreapp3.1\DesignPatternsWithDotNet.Domain.pdb
+C:\Projetos\.NET\DesignPatternsWithDotNet\DesignPatternsWithDotNet.Domain\obj\Debug\netcoreapp3.1\DesignPatternsWithDotNet.Domain.csproj.AssemblyReference.cache
+C:\Projetos\.NET\DesignPatternsWithDotNet\DesignPatternsWithDotNet.Domain\obj\Debug\netcoreapp3.1\DesignPatternsWithDotNet.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\.NET\DesignPatternsWithDotNet\DesignPatternsWithDotNet.Domain\obj\Debug\netcoreapp3.1\DesignPatternsWithDotNet.Domain.AssemblyInfoInputs.cache
+C:\Projetos\.NET\DesignPatternsWithDotNet\DesignPatternsWithDotNet.Domain\obj\Debug\netcoreapp3.1\DesignPatternsWithDotNet.Domain.AssemblyInfo.cs
+C:\Projetos\.NET\DesignPatternsWithDotNet\DesignPatternsWithDotNet.Domain\obj\Debug\netcoreapp3.1\DesignPatternsWithDotNet.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\.NET\DesignPatternsWithDotNet\DesignPatternsWithDotNet.Domain\obj\Debug\netcoreapp3.1\DesignPatternsWithDotNet.Domain.dll
+C:\Projetos\.NET\DesignPatternsWithDotNet\DesignPatternsWithDotNet.Domain\obj\Debug\netcoreapp3.1\DesignPatternsWithDotNet.Domain.pdb

@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AspNetCoreHostingModel>OutOfProcess</AspNetCoreHostingModel>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>C:\Projetos\.NET\DesignPatternsWithDotNet\DesignPatternsWithDotNet\DesignPatternsWithDotNet.xml</DocumentationFile>
+    <WarningLevel>2</WarningLevel>
+  </PropertyGroup>
+  
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <DocumentationFile>C:\Projetos\.NET\DesignPatternsWithDotNet\DesignPatternsWithDotNet\DesignPatternsWithDotNet.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.1.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DesignPatternsWithDotNet.Domain\DesignPatternsWithDotNet.Domain.csproj" />
+    <ProjectReference Include="..\DesignPatternsWithDotNet.Infra\DesignPatternsWithDotNet.Infra.csproj" />
+  </ItemGroup>
+
+</Project>
